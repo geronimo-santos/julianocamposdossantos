@@ -1,4 +1,4 @@
-# olá! me chamo juliano
+# olá! Eu me chamo Juliano Campos
 <div>
   <a href="https://github.com/Julianocamposdossantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianocamposdossantos&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
