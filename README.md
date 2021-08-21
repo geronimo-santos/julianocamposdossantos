@@ -1,15 +1,16 @@
 # olá! Eu me chamo Juliano Campos
 <div>
   <a href="https://github.com/Julianocamposdossantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianocamposdossantos&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianocamposdossantos&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianocamposdossantos&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+ <br><br>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianocamposdossantos&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
   <br>
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=julianocamposdossantos&theme=blue-green)
   <br><br>
-  [![julianocamposdossantos's profile trophy](https://github-profile-trophy.vercel.app/?username=julianocamposdossantos&theme=#CCCCCC)](#)
+  [![julianocamposdossantos's profile trophy](https://github-profile-trophy.vercel.app/?username=julianocamposdossantos&theme=darkhub)](#)
 ****
   
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
