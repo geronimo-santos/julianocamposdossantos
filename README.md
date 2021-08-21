@@ -7,7 +7,10 @@
 </div>
   <br>
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=julianocamposdossantos&theme=blue-green)]
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=julianocamposdossantos&theme=blue-green)
+  <br><br>
+  [![julianocamposdossantos's profile trophy](https://github-profile-trophy.vercel.app/?username=julianocamposdossantos&theme=#CCCCCC)](#)
+****
   
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
